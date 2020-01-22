@@ -49,6 +49,12 @@
   width: 10px;
   margin: 10px;
 }
+
+.like-section-wrapper:hover {
+  opacity: 0.6;
+  cursor: pointer;
+}
+
 .like-number {
   width: 100px;
   margin: 15px 0px;
